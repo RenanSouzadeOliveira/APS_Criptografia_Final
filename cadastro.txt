@@ -1,0 +1,18 @@
+almirante|renan|[364, 975, 816, 1010]|4
+almirante|renan|[2602, 2751, 828, 126]|4
+almirante|renan|[1712, 1683, 2483, 15]|4
+almirante|renan|[49, 50, 333, 361]|4
+almirante|renan|[97, 657, 1282]|3
+almirante|renan|[62519, 61499, 52194, 10445, 52194]|5
+almirante|renan|[272857, 146078, 268603, 31478, 268603]|5
+almirante|renan|[18819, 565, 19041, 2144, 19041]|5
+almirante|renan|[1483, 1224, 11179, 27748, 11179]|5
+almirante|renan|[14546, 13470, 7309, 11376, 7309]|5
+almirante|renan|[37168, 5772, 1315, 25213, 1315]|5
+almirante|renan|[12659, 4101, 10901, 5144, 10901]|5
+almirante|renan|[8268, 15031, 29176, 11538, 29176]|5
+capitãodecorveta|ecila|[28873, 12519, 25883]|3
+capitãodecorveta|ecila|[4000, 25296, 38721]|3
+capitãodecorveta|ecila|[23150, 27188, 15956]|3
+capitãodecorveta|ecila|[22028, 18444, 18458]|3
+capitãodecorveta|ecila|[16833, 11965, 15359]|3
